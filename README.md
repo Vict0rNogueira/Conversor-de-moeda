@@ -26,7 +26,7 @@ Streamlit: Cria menus, botões, inputs e exibe resultados de forma visual e inte
 
 Clone este repositório:
 
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/Vict0rNogueira/Conversor-de-moeda/blob/main/README.md>
 
 
 ou baixe como ZIP e extraia em uma pasta.
